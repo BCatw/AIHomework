@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Neibors:
-  - {fileID: 0}
+  - {fileID: 1515586696}
   bLink: 0
   iFloor: 0
 --- !u!135 &99409956
@@ -732,7 +732,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69fe65ffae0d10944b3dbdd3897b9770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Neibors: []
+  m_Neibors:
+  - {fileID: 99409954}
   bLink: 0
   iFloor: 0
 --- !u!135 &1515586698
